@@ -9,7 +9,6 @@ On other Systems clone the Repo and run main.py
 Dependencies:
 ```
 Python:
-  PIL
   PyQt5
 System:
   Python
